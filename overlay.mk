@@ -38,8 +38,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-nokia-b2n \
 	treble-overlay-nokia-drg \
 	treble-overlay-lenovo-z5 \
-	HardwareOverlayPicker \
-	QtiAudio
+	TrebleApp
 
 
 PRODUCT_PACKAGES += \
