@@ -36,3 +36,6 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-mipad4 \
 	treble-overlay-xiaomi-pocof1 \
 	TrebleApp
+
+PRODUCT_PACKAGES += \
+	treble-overlay-umidigi-z2
