@@ -24,6 +24,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-devinputjack \
 	treble-overlay-oneplus-op6 \
 	treble-overlay-moto-g6plus \
+	treble-overlay-moto-g6 \
 	treble-overlay-webview \
 	treble-overlay-wifi5g \
 	treble-overlay-samsung-s9-systemui \
@@ -38,6 +39,10 @@ PRODUCT_PACKAGES += \
 	treble-overlay-nokia-b2n \
 	treble-overlay-nokia-drg \
 	treble-overlay-lenovo-z5 \
+	treble-overlay-xiaomi-mi6x \
+	treble-overlay-xiaomi-mia2 \
+	treble-overlay-xiaomi-mimax3 \
+	treble-overlay-xiaomi-redminote5 \
 	TrebleApp
 
 PRODUCT_PACKAGES += \
