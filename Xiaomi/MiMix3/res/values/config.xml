@@ -10,7 +10,7 @@
     <integer name="config_screenBrightnessSettingMinimum">1</integer>
     <integer name="config_screenBrightnessSettingDefault">245</integer>
     <integer name="config_screenBrightnessSettingMaximum">2047</integer>
-    <integer name="config_screenBrightnessDoze">1</integer>
+    <integer name="config_screenBrightnessDoze">17</integer>
     <bool name="config_allowAutoBrightnessWhileDozing">false</bool>
     <integer name="config_autoBrightnessBrighteningLightDebounce">2000</integer>
     <integer name="config_autoBrightnessDarkeningLightDebounce">4000</integer>
