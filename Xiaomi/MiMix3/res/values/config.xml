@@ -118,4 +118,10 @@
     <bool name="config_dozeAfterScreenOffByDefault">true</bool>
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_enableBurnInProtection">true</bool>
+
+    <!-- Whether device supports gestures on fingerprint sensor -->
+    <bool name="config_supportsGesturesOnFingerprintSensor">true</bool>
+
+    <!-- Whether auto face unlock is enabled by default -->
+    <bool name="config_autoFaceUnlockEnabledByDefault">true</bool>
 </resources>
