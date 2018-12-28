@@ -234,9 +234,6 @@
     </array>
 
     <bool name="config_enableAutoPowerModes">true</bool>
-    <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
-    <bool name="config_powerDecoupleInteractiveModeFromDisplay">false</bool>
-    <bool name="config_sustainedPerformanceModeSupported">true</bool>
 
     <bool name="config_bluetooth_le_peripheral_mode_supported">true</bool>
     <integer name="config_bluetooth_operating_voltage_mv">3300</integer>
