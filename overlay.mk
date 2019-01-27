@@ -49,8 +49,6 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-mia2lite \
 	treble-overlay-xiaomi-mimax3 \
 	treble-overlay-xiaomi-mimix2s \
-	treble-overlay-xiaomi-mimix3 \
-	treble-overlay-xiaomi-mimix3-systemui \
 	treble-overlay-xiaomi-mipad4 \
 	treble-overlay-xiaomi-pocof1 \
 	treble-overlay-xiaomi-redmi6 \
@@ -60,6 +58,3 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote6pro \
 	treble-overlay-xiaomi-redminote6pro-systemui \
 	treble-overlay-xiaomi-redmis2 \
-
-PRODUCT_PACKAGES += \
-	treble-overlay-umidigi-z2
