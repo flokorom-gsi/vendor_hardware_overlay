@@ -35,6 +35,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-op6 \
 	treble-overlay-oneplus-op6t \
 	treble-overlay-oneplus-op6t-systemui \
+	treble-overlay-razer-cheryl \
 	treble-overlay-samsung-s9-systemui \
 	treble-overlay-sharp-s2 \
 	treble-overlay-webview \
@@ -45,11 +46,14 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-mi8lite \
 	treble-overlay-xiaomi-mi8pro \
 	treble-overlay-xiaomi-mi8se \
+	treble-overlay-xiaomi-mi9 \
+	treble-overlay-xiaomi-mi9lite \
 	treble-overlay-xiaomi-mia2 \
 	treble-overlay-xiaomi-mia2lite \
 	treble-overlay-xiaomi-mimax3 \
 	treble-overlay-xiaomi-mimix2s \
 	treble-overlay-xiaomi-mipad4 \
+	treble-overlay-xiaomi-miplay \
 	treble-overlay-xiaomi-pocof1 \
 	treble-overlay-xiaomi-redmi6 \
 	treble-overlay-xiaomi-redmi6a \
@@ -57,4 +61,5 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote5 \
 	treble-overlay-xiaomi-redminote6pro \
 	treble-overlay-xiaomi-redminote6pro-systemui \
+	treble-overlay-xiaomi-redminote7 \
 	treble-overlay-xiaomi-redmis2 \
