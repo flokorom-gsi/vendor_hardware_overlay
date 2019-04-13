@@ -18,6 +18,7 @@
 
     <bool name="config_automatic_brightness_available">true</bool>
 
+    <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
 
     <bool name="config_hotswapCapable">true</bool>
     <string-array name="config_gpsParameters">
