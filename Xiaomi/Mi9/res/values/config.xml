@@ -18,8 +18,6 @@
 
     <bool name="config_automatic_brightness_available">true</bool>
 
-    <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
-
     <bool name="config_hotswapCapable">true</bool>
     <string-array name="config_gpsParameters">
         <item>SUPL_HOST=supl.google.com</item>
@@ -154,7 +152,7 @@
         <item>255</item>
         <item>255</item>
     </integer-array>
-    <bool name="config_allowAutoBrightnessWhileDozing">true</bool>
+    <bool name="config_allowAutoBrightnessWhileDozing">false</bool>
 
     <integer translatable="false" name="config_brightness_ramp_rate_fast">10000</integer>
     <integer translatable="false" name="config_brightness_ramp_rate_slow">10000</integer>
