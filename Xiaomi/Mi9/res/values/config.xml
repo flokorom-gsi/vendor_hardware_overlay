@@ -6,6 +6,8 @@
     <bool name="config_dozeAfterScreenOffByDefault">true</bool>
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_enableBurnInProtection">true</bool>
+    <bool name="config_sustainedPerformanceModeSupported">true</bool>
+    <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
 
     <bool name="config_useDevInputEventForAudioJack">true</bool>
     <bool name="config_supportAudioSourceUnprocessed">true</bool>
@@ -686,6 +688,7 @@
 
     <bool name="config_supportSmartPixels">true</bool>
     <bool name="config_allowActivePackageBroadcast">true</bool>
+    <bool name="config_ignoreRssnrSignalLevel">true</bool>
 
     <!-- Default value for proximity check on screen wake
      NOTE ! - Enable for devices that have a fast response proximity sensor (ideally < 300ms)-->
