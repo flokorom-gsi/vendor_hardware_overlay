@@ -8,6 +8,8 @@
     <bool name="config_enableBurnInProtection">true</bool>
     <bool name="config_sustainedPerformanceModeSupported">true</bool>
     <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
+    <bool name="config_enableAutoPowerModes">true</bool>
+    <bool name="config_doze_enabled_by_default">true</bool>
 
     <bool name="config_useDevInputEventForAudioJack">true</bool>
     <bool name="config_supportAudioSourceUnprocessed">true</bool>
