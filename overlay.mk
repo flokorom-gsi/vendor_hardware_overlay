@@ -29,12 +29,14 @@ PRODUCT_PACKAGES += \
 	treble-overlay-huawei-VTR \
 	treble-overlay-huawei-WAS \
 	treble-overlay-huawei-telephony \
+	treble-overlay-lenovo-k5pro \
 	treble-overlay-lenovo-s5 \
 	treble-overlay-lenovo-z5 \
 	treble-overlay-lg-g7 \
 	treble-overlay-lg-v40 \
 	treble-overlay-moto-g6 \
 	treble-overlay-moto-g6plus \
+	treble-overlay-moto-g7power \
 	treble-overlay-nokia-b2n \
 	treble-overlay-nokia-drg \
 	treble-overlay-oneplus-op6 \
@@ -44,6 +46,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-s9-systemui \
 	treble-overlay-sharp-s2 \
 	treble-overlay-sony-XZ3 \
+	treble-overlay-tecno-camon-11 \
 	treble-overlay-webview \
 	treble-overlay-wifi5g \
 	treble-overlay-xiaomi-mi6x \
@@ -66,6 +69,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redmi6 \
 	treble-overlay-xiaomi-redmi6a \
 	treble-overlay-xiaomi-redmi6pro \
+	treble-overlay-xiaomi-redmigo \
 	treble-overlay-xiaomi-redminote5 \
 	treble-overlay-xiaomi-redminote6pro \
 	treble-overlay-xiaomi-redminote6pro-systemui \
