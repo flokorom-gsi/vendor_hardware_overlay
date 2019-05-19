@@ -1,4 +1,10 @@
 PRODUCT_PACKAGES += \
+	treble-overlay-oneplus-op7pro \
+	treble-overlay-oneplus-op7pro-systemui \
+	treble-overlay-xiaomi-mi9-los \
+	treble-overlay-xiaomi-mi9-systemui
+
+PRODUCT_PACKAGES += \
 	HardwareOverlayPicker \
 	QtiAudio \
 	TrebleApp \
@@ -56,8 +62,6 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-mi8pro \
 	treble-overlay-xiaomi-mi8se \
 	treble-overlay-xiaomi-mi9 \
-	treble-overlay-xiaomi-mi9-los \
-	treble-overlay-xiaomi-mi9-systemui \
 	treble-overlay-xiaomi-mi9se \
 	treble-overlay-xiaomi-mia2 \
 	treble-overlay-xiaomi-mia2lite \
@@ -74,4 +78,4 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote6pro \
 	treble-overlay-xiaomi-redminote6pro-systemui \
 	treble-overlay-xiaomi-redminote7 \
-	treble-overlay-xiaomi-redmis2 \
+	treble-overlay-xiaomi-redmis2
