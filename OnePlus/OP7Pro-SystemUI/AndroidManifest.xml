@@ -3,7 +3,5 @@
         android:versionCode="1"
         android:versionName="1.0">
         <overlay android:targetPackage="com.android.systemui"
-                android:requiredSystemPropertyName="ro.vendor.build.fingerprint"
-                android:requiredSystemPropertyValue="+OnePlus/OnePlus7Pro/OnePlus7Pro*"
 		android:priority="106" />
 </manifest>
