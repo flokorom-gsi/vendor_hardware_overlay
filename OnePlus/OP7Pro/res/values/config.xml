@@ -276,4 +276,7 @@
     <integer name="oneplus_fod_width">272</integer>
     <integer name="oneplus_fod_height">272</integer>
 
+    <!-- Whether device has dash charging support -->
+    <bool name="config_hasDashCharger">true</bool>
+
 </resources>
