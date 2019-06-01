@@ -270,5 +270,10 @@
     <bool name="config_needCustomFODView">true</bool>
 
     <bool name="config_usesOnePlusFOD">true</bool>
+    
+    <integer name="oneplus_fod_location_x">583</integer>
+    <integer name="oneplus_fod_location_y">2591</integer>
+    <integer name="oneplus_fod_width">272</integer>
+    <integer name="oneplus_fod_height">272</integer>
 
 </resources>
