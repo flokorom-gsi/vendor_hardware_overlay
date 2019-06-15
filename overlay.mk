@@ -1,4 +1,5 @@
 PRODUCT_PACKAGES += \
+	treble-overlay-oneplus-op7 \
 	treble-overlay-oneplus-op7pro \
 	treble-overlay-oneplus-op7pro-systemui \
 	treble-overlay-xiaomi-mi9-los \
