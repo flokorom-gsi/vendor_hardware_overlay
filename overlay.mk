@@ -79,4 +79,5 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote6pro \
 	treble-overlay-xiaomi-redminote6pro-systemui \
 	treble-overlay-xiaomi-redminote7 \
-	treble-overlay-xiaomi-redmis2
+	treble-overlay-xiaomi-redmis2 \
+
